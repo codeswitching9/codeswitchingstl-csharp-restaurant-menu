@@ -1,0 +1,15 @@
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.csproj.AssemblyReference.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.AssemblyInfoInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.AssemblyInfo.cs
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.csproj.CoreCompileInputs.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\bin\Debug\net6.0\csharp-restaurant-menu.exe
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\bin\Debug\net6.0\csharp-restaurant-menu.deps.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\bin\Debug\net6.0\csharp-restaurant-menu.runtimeconfig.json
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\bin\Debug\net6.0\csharp-restaurant-menu.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\bin\Debug\net6.0\csharp-restaurant-menu.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\refint\csharp-restaurant-menu.dll
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.pdb
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\csharp-restaurant-menu.genruntimeconfig.cache
+D:\coding-and-programming-things\LaunchCode\csharp\csharp-restaurant-menu\csharp-restaurant-menu\csharp-restaurant-menu\obj\Debug\net6.0\ref\csharp-restaurant-menu.dll
